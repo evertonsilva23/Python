@@ -1,2 +1,2 @@
 # Python
- Some exercises to Learn Pyhon
+ Some exercises to Learn Python
