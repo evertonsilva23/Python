@@ -12,21 +12,22 @@
 # Digite um número: pronto
 # 16 3 5.333333333333333
 
-xcontrol = ""
+# -*- encoding: utf-8 -*-
+# coding: iso-8859-1 -*-
+number = ""
 i = 0
 soma = 0
-while xcontrol != "pronto":
-    try:
-        control = input("Digite um número: ")
-        if control == "pronto":
-            break
-        else:
-            xcontrol = int(control)
-    except:
-        print("Dado errado")
-    if type(xcontrol) == int:
-        i = i + 1
-        soma = soma + xcontrol
-print("A soma total é: ", soma)
-print("A quantidade de números é: ")
-print("A média dos números é: ", soma / i)
+while number != "pronto":
+    number = input("Digite um numero: ")
+    if number != "pronto":
+        try:
+            xnumber = int(number)
+            soma = soma + xnumber
+            i = i + 1
+        except:
+            print("Dado invalido")
+            continue
+
+print("A soma total e: ", soma)
+print("A quantidade de numeros e: ", i)
+print("A media dos numeros e: ", soma / i)
