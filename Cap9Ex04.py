@@ -15,13 +15,23 @@ for line in fhand:
     if len(line) == 0 or not line.startswith('From '): continue
     line = line.rstrip()
     words = line.split()
-    # print(words)
     word = words[1]
     if word not in counts:
         counts[word] = 1
     else:
         counts[word] += 1
-maximum = max(counts)
-print(counts)
-print(max(counts), counts[maximum])
-# print(max(counts))
+largest = None
+minimum = None
+#Encontrando o maior valor no dicionário
+for i in counts.values():
+    if largest is None or i > largest:
+        largest = i
+    if minimum is None or i < minimum:
+        minimum = i
+#Localizando o valor e retornando a chave
+def search_value(value):
+    for k, v in counts.items():
+        if value == v:
+            return k
+print(search_value(largest), largest)
+print(search_value(minimum), minimum)
