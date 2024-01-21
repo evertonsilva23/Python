@@ -1,0 +1,1582 @@
+
+0
+0	0	0	Kris
+0	1	1	Short Sword
+0	2	2	Rapier
+0	3	3	Katana
+0	4	4	Sword of Assassin
+0	5	5	Blade
+0	6	6	Gladius
+0	7	7	Falchion
+0	8	8	Serpent Sword
+0	9	9	Sword of Salamander
+0	10	10	Light Saber
+0	11	11	Legendary Sword
+0	12	12	Heliacal Sword
+0	13	13	Double Blade
+0	14	14	Lighting Sword
+0	15	15	Giant Sword
+0	16	16	Sword of Destruction
+0	17	17	Dark Breaker
+0	18	18	Thunder Blade
+0	19	19	Divine Sword of Archangel
+0	20	20	Knight Blade
+0	21	21	Dark Reign Blade
+0	22	22	Bone Blade
+0	23	23	Explosion Blade
+0	24	24	Daybreak
+0	25	25	Sword Dancer
+0	26	26	Flameberge
+0	27	27	Sword Breaker
+0	28	28	Rune Bastard Sword
+0	29	29	Rune Blade BK
+0	31	31	Rune Blade
+0	32	32	Sacred Glove
+0	33	33	Holly Storm Claws
+0	34	34	Piercing Glove
+0	35	35	Phoenix Soul Star
+0	36	36	Dark Sword
+0	37	37	White Sword
+0	38	38	Fenix Sword
+0	39	39	Edt.GOD Sword
+0	41	41	Red Dragon Sword
+0	42	42	Sam Sword
+0	43	43	Expectro Sword
+0	44	44	Magnu Sword
+0	45	45	V2 L Sword
+0	46	46	Misty Sword
+0	47	47	Blue R Sword
+0	48	48	TheEnd Sword
+0	49	49	Red Blade Sword
+0	50	50	Golden R Sword
+0	51	51	Death R Sword
+0	52	52	Master R Sword
+0	53	53	Ice Lord Sword
+0	54	54	Kratos Sword
+0	55	55	Efesto Sword
+0	57	57	Ed.Rlk.Mago Sword
+0	58	58	Metalica Sword
+0	59	59	Infamy Sword
+0	60	60	Spell Sword
+0	61	61	Especial01 Sword
+0	62	62	Predador Sword
+0	63	63	Gladiator Sword
+0	64	64	Samurai Sword
+0	65	65	Naruto Rikudou Sword
+0	66	66	Danger R Sword
+0	67	67	Mega Sword
+0	68	68	Rlk.V1 Sword
+0	69	69	BigMace Sword
+0	70	70	Struck Sword
+0	71	71	Black Sword
+0	72	72	Metal Mace
+0	73	73	Salamander Sword
+0	74	74	Knight Sword
+0	75	75	Caveira Sword
+0	76	76	Edt.GOD Sword
+0	77	77	Flash Sword
+0	78	78	Minato Sword
+0	79	79	Demon Sword
+0	80	80	Kimimaro Sword
+0	81	81	Caveira Axe
+0	82	82	Frezo Axe
+0	83	83	Bob Axe
+0	84	84	Maron Axe
+0	85	85	Extreme Axe
+0	86	86	Blisto Axe
+0	87	87	Soldier Axe
+0	88	88	Kancro Axe
+0	89	89	Struck Axe
+0	90	90	Green Axe
+0	91	91	Fiire Axe
+0	92	92	Metalica Axe
+0	93	93	Blue Axe
+0	94	94	Devil Axe
+0	95	95	Sansor Axe
+0	96	96	Rlk.V1 Axe
+0	97	97	Galeon Sword
+0	98	98	01 Sword
+0	99	99	Imperial Sword
+0	100	100	Light Hawk Sword
+0	101	101	RabbitLunar Sword
+0	102	102	Armageddon Sword
+0	103	103	Ice Dragon Sword
+0	104	104	Wellonw Black Sword
+0	105	105	Rlk.Forest Sword
+0	106	106	Edt.Demon FireV1 Sword
+0	107	107	Edt.Bird White Sword
+0	108	108	NightMare Sword
+0	109	109	Nightmare_V2 Sword
+0	110	110	Fenrir Gold Sword
+0	111	111	Hell Maine Sword
+0	112	112	Guardian Sword
+0	113	113	Dark Yellow Sword
+0	114	114	Rei Do Beta Sword
+0	200	200	Purple Sword
+0	201	201	Rei Do UP Sword
+0	204	204	Royal Sword
+0	205	205	Dragon Sword
+0	206	206	Crystal Sword
+0	207	207	Blood Sword
+0	208	208	DarkDemon Sword
+0	210	210	Dragon Sword
+0	213	213	Baushee Sword
+0	214	214	Cyrus Sword
+0	216	216	Sword
+0	217	217	Sword
+0	218	218	Sword Dark Yellow
+0	219	219	Sword Fable
+0	220	220	Sword Rei Do Beta
+0	221	221	Sword Heart of Gold
+0	222	222	Sword Natal 2023
+0	223	223	Sword Kundun
+0	224	224	Sword Kunai
+0	225	225	Sword Samehada
+0	226	226	Sword Max
+0	227	227	Sword Kill
+0	228	228	Axe Killer
+
+1
+1	0	512	Small Axe
+1	1	513	Hand Axe
+1	2	514	Double Axe
+1	3	515	Tomahawk
+1	4	516	Elven Axe
+1	5	517	Battle Axe
+1	6	518	Nikea Axe
+1	7	519	Larkan Axe
+1	8	520	Crescent Axe
+
+2
+2	0	1024	Mace
+2	1	1025	Morning Star
+2	2	1026	Flail
+2	3	1027	Great Hammer
+2	4	1028	Crystal Morning Star
+2	5	1029	Crystal Sword
+2	6	1030	Chaos Dragon Axe
+2	7	1031	Elemental Mace
+2	8	1032	Battle Scepter
+2	9	1033	Master Scepter
+2	10	1034	Great Scepter
+2	11	1035	Lord Scepter
+2	12	1036	Great Lord Scepter
+2	13	1037	Divine Scepter of Archangel
+2	14	1038	Soleil Sceptor
+2	15	1039	Shining Scepter
+2	16	1040	Frost Mace
+2	17	1041	Absolute Scepter
+2	18	1042	Striker Scepter
+2	100	1124	Light Hawk Scepter
+2	101	1125	RabbitLunar Scepter
+2	102	1126	Armageddon Scepter
+2	103	1127	Ice Dragon Scepter
+2	104	1128	Wellonw Black Scepter
+2	105	1129	Rlk.Forest Scepter
+2	106	1130	Edt.Demon FireV1  Scepter
+2	107	1131	Edt.Bird White Scepter
+2	108	1132	NightMare Scepter
+2	109	1133	Nightmare_V2 Scepter
+2	110	1134	Fenrir Gold Scepter
+2	111	1135	Hell Maine Scepter
+2	202	1226	Mace Of The King
+2	219	1243	Death Mace
+2	220	1244	Steel Mace
+2	225	1249	Warlock Mace
+2	226	1250	Dark Yellow Scepter
+2	227	1251	Rei Do Beta Scepter
+2	228	1252	Heart of Gold Scepter
+2	229	1253	Rei Do CS Scepter
+2	230	1254	Natal 2023 Scepter
+2	231	1255	Natal 2023 Mace
+2	232	1256	Rei Do UP Scepter
+2	233	1257	Kundun Scepter
+2	234	1258	Blue Skull Scepter
+2	235	1259	Sky Scepter
+
+3
+3	0	1536	Light Spear
+3	1	1537	Spear
+3	2	1538	Dragon Lance
+3	3	1539	Giant Trident
+3	4	1540	Serpent Spear
+3	5	1541	Double Poleaxe
+3	6	1542	Halberd
+3	7	1543	Berdysh
+3	8	1544	Great Scythe
+3	9	1545	Bill of Balrog
+3	10	1546	Dragon Spear
+3	11	1547	Brova
+
+4
+4	0	2048	Short Bow
+4	1	2049	Bow
+4	2	2050	Elven Bow
+4	3	2051	Battle Bow
+4	4	2052	Tiger Bow
+4	5	2053	Silver Bow
+4	6	2054	Chaos Nature Bow
+4	7	2055	Bolt
+4	8	2056	Crossbow
+4	9	2057	Golden Crossbow
+4	10	2058	Arquebus
+4	11	2059	Light Crossbow
+4	12	2060	Serpent Crossbow
+4	13	2061	Bluewing Crossbow
+4	14	2062	Aquagold Crossbow
+4	15	2063	Arrow
+4	16	2064	Saint Crossbow
+4	17	2065	Celestial Bow
+4	18	2066	Divine Crossbow of Archangel
+4	19	2067	Great Reign Crossbow
+4	20	2068	Arrow Viper Bow
+4	21	2069	Sylph Wind Bow
+4	22	2070	Albatross Bow
+4	23	2071	Dark Stinger
+4	24	2072	Medusa Bow
+4	100	2148	Light Hawk Bow
+4	101	2149	Ed.Rlk.Mago Bow
+4	102	2150	Armageddon Bow
+4	103	2151	Ice Dragon Bow
+4	104	2152	Wellon Black Bow
+4	105	2153	Forest Bow
+4	106	2154	Ed.DemonFireV1 Bow
+4	107	2155	Edt.Bird Bow
+4	108	2156	Edt. GOD Bow
+4	109	2157	Golden R Bow
+4	110	2158	Fenrir Gold Bow
+4	111	2159	Galeon Bow
+4	112	2160	Saint Crossbow V2
+4	200	2248	Purple Bow
+4	201	2249	Rei Do UP Bow
+4	206	2254	Crystal Bow
+4	209	2257	Optimus Bow
+4	210	2258	Dark Yellow Bow
+4	211	2259	Rei Do Beta Bow
+4	212	2260	Heart Of Gold Bow
+4	213	2261	Natal 2023 Bow
+4	214	2262	Sakura Bow
+4	215	2263	Princess Bow
+
+5
+5	0	2560	Skull Staff
+5	1	2561	Angelic Staff
+5	2	2562	Serpent Staff
+5	3	2563	Thunder Staff
+5	4	2564	Gorgon Staff
+5	5	2565	Legendary Staff
+5	6	2566	Staff of Resurrection
+5	7	2567	Chaos Lighting Staff
+5	8	2568	Staff of Destruction
+5	9	2569	Dragon Soul Staff
+5	10	2570	Divine Staff of Archangel
+5	11	2571	Staff of Kundun
+5	12	2572	Grand Viper Staff
+5	13	2573	Platina Staff
+5	14	2574	Mystery Stick
+5	15	2575	Violent Wind Stick
+5	16	2576	Red Wing Stick
+5	17	2577	Ancient Stick
+5	18	2578	Demonic Stick
+5	19	2579	Storm Blitz Stick
+5	20	2580	Eternal Wing Stick
+5	21	2581	Book of Samut
+5	22	2582	Book of Neil
+5	23	2583	Book of Lagle
+5	30	2590	Deadly Staff
+5	31	2591	Inberial Staff
+5	32	2592	Merlin Staff
+5	33	2593	Chromatic Staff
+5	34	2594	Raven Stick
+5	35	2595	Supreme Staff
+5	36	2596	Divine Stick of Archangel
+5	100	2660	Light Hawk Staff
+5	101	2661	RabbitLunar Staff
+5	102	2662	Armageddon Staff
+5	103	2663	Ice Dragon  Staff
+5	104	2664	Wellonw Black Staff
+5	105	2665	Rlk.Forest Staff
+5	106	2666	Edt.Demon FireV1 Staff
+5	107	2667	Edt.Bird White Staff
+5	108	2668	NightMare Staff
+5	109	2669	Nightmare_V2 Staff
+5	110	2670	Fenrir Gold Staff
+5	111	2671	Hell Maine Staff
+5	112	2672	Legendary Staff V2 Staff
+5	200	2760	Purple Staff
+5	201	2761	Rei Do UP Staff
+5	215	2775	Demon Staff
+5	218	2778	Lilium Staff
+5	221	2781	PurpleMage Staff
+5	223	2783	SoketMagum Staff
+5	224	2784	Wands Staff
+5	225	2785	Dark Yellow Staff
+5	226	2786	Rei Do Beta Staff
+5	227	2787	Heart Of Gold Staff
+5	228	2788	Natal 2023 Staff
+5	229	2789	Kundun Staff
+5	230	2790	Armageddon Staff
+5	231	2791	Max Staff
+5	232	2792	Rikudou Staff
+
+6
+6	0	3072	Small Shield
+6	1	3073	Horn Shield
+6	2	3074	Kite Shield
+6	3	3075	Elven Shield
+6	4	3076	Buckler
+6	5	3077	Dragon Slayer Shield
+6	6	3078	Skull Shield
+6	7	3079	Spiked Shield
+6	8	3080	Tower Shield
+6	9	3081	Plate Shield
+6	10	3082	Large Round Shield
+6	11	3083	Serpent Shield
+6	12	3084	Bronze Shield
+6	13	3085	Dragon Shield
+6	14	3086	Legendary Shield
+6	15	3087	Grand Soul Shield
+6	16	3088	Elemental Shield
+6	17	3089	Crimson Glory
+6	18	3090	Salamander Shield
+6	19	3091	Frost Barrier
+6	20	3092	Guardian Shield
+6	21	3093	Cross Shield
+6	100	3172	Light Hawk Shield
+6	101	3173	RabbitLunar Shield
+6	102	3174	Armageddon Shield
+6	103	3175	Ice Dragon Shield
+6	104	3176	Wellonw Black Shield
+6	105	3177	Rlk.Forest Shield
+6	106	3178	Edt.Demon FireV1 Shield
+6	107	3179	Edt.Bird White Shield
+6	108	3180	NightMare Shield
+6	109	3181	Nightmare_V2 Shield
+6	110	3182	Fenrir Gold Shield
+6	111	3183	Hell Maine Shield
+6	200	3272	Purple Shield
+6	201	3273	Rei Do UP Shield
+6	204	3276	Royal Shield
+6	207	3279	Blood Shield
+6	211	3283	Apolo Shield
+6	212	3284	Ares Shield
+6	222	3294	Shield
+6	223	3295	Dark Yellow Shield
+6	224	3296	Fable Shield
+6	225	3297	Rei Do Beta Shield
+6	226	3298	Heart Of Gold Shield
+6	227	3299	Rei Do CS Shield
+6	228	3300	Natal 2023 Shield
+6	229	3301	Kundun Shield
+6	230	3302	Max Shield
+6	231	3303	Rinnegan Shield
+6	232	3304	DBZ Shield
+6	233	3305	Madara Shield
+
+7
+7	0	3584	Bronze Helm
+7	1	3585	Dragon Helm
+7	2	3586	Pad Helm
+7	3	3587	Legendary Helm
+7	4	3588	Bone Helm
+7	5	3589	Leather Helm
+7	6	3590	Scale Helm
+7	7	3591	Sphinx Helm
+7	8	3592	Brass Helm
+7	9	3593	Plate Helm
+7	10	3594	Vine Helm
+7	11	3595	Silk Helm
+7	12	3596	Wind Helm
+7	13	3597	Spirit Helm
+7	14	3598	Guardian Helm
+7	15	3599	Storm Crow Helm
+7	16	3600	Black Dragon Helm
+7	17	3601	Dark Phoenix Helm
+7	18	3602	Grand Soul Helm
+7	19	3603	Holy Spirit Helm
+7	20	3604	Thunder Hawk Helm
+7	21	3605	Great Dragon Helm
+7	22	3606	Dark Soul Helm
+7	23	3607	Hurricane Helm
+7	24	3608	Red Sprit Helm
+7	25	3609	Light Plate Helm
+7	26	3610	Adamantine Helm
+7	27	3611	Dark Steel Helm
+7	28	3612	Dark Master Helm
+7	29	3613	Dragon Knight Helm
+7	30	3614	Venom Mist Helm
+7	31	3615	Sylphid Ray Helm
+7	32	3616	Volcano Helm
+7	33	3617	Sunlight Helm
+7	34	3618	Ashcrow Helm
+7	35	3619	Eclipse Helm
+7	36	3620	Iris Helm
+7	37	3621	Valiant Helm
+7	38	3622	Glorious Helm
+7	39	3623	Violent Wind Helm
+7	40	3624	Red Wing Helm
+7	41	3625	Ancient Helm
+7	42	3626	Demonic Helm
+7	43	3627	Storm Blitz Helm
+7	44	3628	Eternal Wing Helm
+7	45	3629	Titan Helm
+7	46	3630	Brave Helm
+7	47	3631	Phantom Helm
+7	48	3632	Destroy Helm
+7	49	3633	Seraphim Helm
+7	50	3634	Divine Helm
+7	51	3635	Royal Helm
+7	52	3636	Hades Helm
+7	53	3637	Queen Pants
+7	59	3643	Sacred Helm
+7	60	3644	Storm Hard Helm
+7	61	3645	Piercing Helm
+7	62	3646	Lucky Scale Helm
+7	63	3647	Lucky Silk Helm
+7	64	3648	Lucky Sphinx Helm
+7	65	3649	Lucky Violent Wind Helm
+7	66	3650	Lucky Dark Soul Helm
+7	67	3651	Lucky Dragon Helm
+7	68	3652	Lucky Guardian Helm
+7	69	3653	Lucky Legendary Helm
+7	70	3654	Lucky Red Wing Helm
+7	72	3656	Lucky Storm Hard Helm
+7	73	3657	Phoenix Soul Helm
+7	100	3684	Light Hawk Helm
+7	101	3685	RabbitLunar Helm
+7	102	3686	Armageddon Helm
+7	103	3687	Ice Dragon Helm
+7	104	3688	Wellonw Black Helm
+7	105	3689	Rlk.Forest Helm
+7	106	3690	Edt.Demon FireV1 M Helm
+7	107	3691	Edt.Demon FireV1 F Helm
+7	108	3692	Edt.Bird White M M Helm
+7	109	3693	Edt.Bird White F F Helm
+7	110	3694	NightMare Helm
+7	111	3695	Nightmare_V2 Helm
+7	112	3696	Fenrir Gold Helm
+7	113	3697	Skeleton King Helm
+7	114	3698	Red Dragon Helm
+7	115	3699	Medusa Helm (F)
+7	116	3700	Golden Helm
+7	117	3701	Kundun Helm (M)
+7	118	3702	Wizard Helm
+7	119	3703	Hell Maine Helm
+7	120	3704	Guardian Helm
+7	200	3784	Purple Helm
+7	201	3785	Purple F Helm
+7	202	3786	Rei Do UP Helm
+7	203	3787	Rei Do UP F Helm
+7	204	3788	Royal Helm
+7	205	3789	Cel Helm
+7	206	3790	Saiyajin 4 Helm
+7	207	3791	Hiruzen Helm
+7	208	3792	Jiraya Helm
+7	209	3793	King Vegeta Helm
+7	210	3794	Vegeta Saiyajin 4 Helm
+7	211	3795	Dragon Helm
+7	212	3796	Alpha Helm
+7	213	3797	Crystal Helm
+7	214	3798	Blood Helm
+7	215	3799	Dark Blue Helm
+7	216	3800	Dragon Impact Helm
+7	217	3801	Imperador Helm
+7	218	3802	ArcheBlade Helm
+7	219	3803	Dark Demon Helm
+7	220	3804	Alien Girl Helm
+7	221	3805	Dark Warrior Helm
+7	222	3806	Magma Helm
+7	223	3807	Optimus F Helm
+7	224	3808	Killer Helm
+7	225	3809	Killer 2 Helm
+7	226	3810	Demon Lord Helm
+7	227	3811	ABS Helm
+7	228	3812	DARK YELLOW HELM (M)
+7	229	3813	DARK YELLOW HELM (F)
+7	230	3814	FABLE HELM (M)
+7	231	3815	Rei Do Beta Helm (F)
+7	232	3816	Rei Do Beta Helm (M)
+7	233	3817	Heart Of Gold Helm (F)
+7	234	3818	Heart Of Gold Helm (M)
+7	235	3819	Rei Do CS Helm (M)
+7	236	3820	Natal 2023 Helm (F)
+7	237	3821	Natal 2023 Helm (M)
+7	238	3822	Sakura Helm (F)
+7	239	3823	Princess Helm (F)
+7	240	3824	Zabuba Helm (M)
+7	241	3825	Goku SJJ5 Helm (M)
+7	242	3826	Majin Boo Helm (M)
+7	243	3827	Ichigo Mugetsu Helm (M)
+7	244	3828	Uchiha Madara Helm (M)
+7	245	3829	Roronoa Zoro Helm (M)
+7	246	3830	Max Helm (M)
+7	247	3831	Blue Storm Helm (M)
+
+8
+8	0	4096	Bronze Armor
+8	1	4097	Dragon Armor
+8	2	4098	Pad Armor
+8	3	4099	Legendary Armor
+8	4	4100	Bone Armor
+8	5	4101	Leather Armor
+8	6	4102	Scale Armor
+8	7	4103	Sphinx Armor
+8	8	4104	Brass Armor
+8	9	4105	Plate Armor
+8	10	4106	Vine Armor
+8	11	4107	Silk Armor
+8	12	4108	Wind Armor
+8	13	4109	Spirit Armor
+8	14	4110	Guardian Armor
+8	15	4111	Storm Crow Armor
+8	16	4112	Black Dragon Armor
+8	17	4113	Dark Phoenix Armor
+8	18	4114	Grand Soul Armor
+8	19	4115	Holy Spirit Armor
+8	20	4116	Thunder Hawk Armor
+8	21	4117	Great Dragon Armor
+8	22	4118	Dark Soul Armor
+8	23	4119	Hurricane Armor
+8	24	4120	Red Sprit Armor
+8	25	4121	Light Plate Armor
+8	26	4122	Adamantine Armor
+8	27	4123	Dark Steel Armor
+8	28	4124	Dark Master Armor
+8	29	4125	Dragon Knight Armor
+8	30	4126	Venom Mist Armor
+8	31	4127	Sylphid Ray Armor
+8	32	4128	Volcano Armor
+8	33	4129	Sunlight Armor
+8	34	4130	Ashcrow Armor
+8	35	4131	Eclipse Armor
+8	36	4132	Iris Armor
+8	37	4133	Valiant Armor
+8	38	4134	Glorious Armor
+8	39	4135	Violent Wind Armor
+8	40	4136	Red Wing Armor
+8	41	4137	Ancient Armor
+8	42	4138	Demonic Armor
+8	43	4139	Storm Blitz Armor
+8	44	4140	Eternal Wing Armor
+8	45	4141	Titan Armor
+8	46	4142	Brave Armor
+8	47	4143	Phantom Armor
+8	48	4144	Destroy Armor
+8	49	4145	Seraphim Armor
+8	50	4146	Divine Armor
+8	51	4147	Royal Armor
+8	52	4148	Hades Armor
+8	53	4149	Queen Armor
+8	59	4155	Sacred Armor
+8	60	4156	Storm Hard Armor
+8	61	4157	Piercing Armor
+8	62	4158	Lucky Scale Armor
+8	63	4159	Lucky Silk Armor
+8	64	4160	Lucky Sphinx Armor
+8	65	4161	Lucky Violent Wind Armor
+8	66	4162	Lucky Dark Soul Armor
+8	67	4163	Lucky Dragon Armor
+8	68	4164	Lucky Guardian Armor
+8	69	4165	Lucky Legendary Armor
+8	70	4166	Lucky Red Wing Armor
+8	71	4167	Lucky Atlans Armor
+8	72	4168	Lucky Storm Hard Armor
+8	73	4169	Phoenix Soul Armor
+8	100	4196	Light Hawk Armor
+8	101	4197	RabbitLunar Armor
+8	102	4198	Armageddon Armor
+8	103	4199	Ice Dragon Armor
+8	104	4200	Wellonw Black Armor
+8	105	4201	Rlk.Forest Armor
+8	106	4202	Edt.Demon FireV1 M Armor
+8	107	4203	Edt.Demon FireV1 F Armor
+8	108	4204	Edt.Bird White M M Armor
+8	109	4205	Edt.Bird White F F Armor
+8	110	4206	NightMare Armor
+8	111	4207	Nightmare_V2 Armor
+8	112	4208	Fenrir Gold Armor
+8	113	4209	Skeleton King Armor
+8	114	4210	Red Dragon Armor
+8	115	4211	Medusa Armor (F)
+8	116	4212	Golden Armor
+8	117	4213	Kundun Armor (M)
+8	118	4214	Wizard Armor
+8	119	4215	Hell Maine Armor
+8	120	4216	Guardian Armor
+8	200	4296	Purple Armor
+8	201	4297	Purple F Armor
+8	202	4298	Rei Do UP Armor
+8	203	4299	Rei Do UP F Armor
+8	204	4300	Royal Armor
+8	205	4301	Cel Armor
+8	206	4302	Saiyajin 4 Armor
+8	207	4303	Hiruzen Armor
+8	208	4304	Jiraya Armor
+8	209	4305	King Vegeta Armor
+8	210	4306	Vegeta Saiyajin 4 Armor
+8	211	4307	Dragon Armor
+8	212	4308	Alpha Armor
+8	213	4309	Crystal Armor
+8	214	4310	Blood Armor
+8	215	4311	Dark Blue Armor
+8	216	4312	Dragon Impact Armor
+8	217	4313	Imperador Armor
+8	218	4314	ArcheBlade Armor
+8	219	4315	Dark Demon Armor
+8	220	4316	Alien Girl Armor
+8	221	4317	Dark Warrior Armor
+8	222	4318	Magma Armor
+8	223	4319	Optimus F Armor
+8	224	4320	Killer Armor
+8	225	4321	Killer 2 Armor
+8	226	4322	Demon Lord Armor
+8	227	4323	ABS Armor
+8	228	4324	DARK YELLOW ARMOR (M)
+8	229	4325	DARK YELLOW ARMOR (F)
+8	230	4326	FABLE ARMOR (M)
+8	231	4327	Rei Do Beta Armor (F)
+8	232	4328	Rei Do Beta Armor (M)
+8	233	4329	Heart Of Gold Armor (F)
+8	234	4330	Heart Of Gold Armor (M)
+8	235	4331	Rei Do CS Armor (M)
+8	236	4332	Natal 2023 Armor (F)
+8	237	4333	Natal 2023 Armor (M)
+8	238	4334	Sakura Armor (F)
+8	239	4335	Princess Armor (F)
+8	240	4336	Zabuza Armor (M)
+8	241	4337	Goku SJJ5 Armor (M)
+8	242	4338	Majinn Boo Armor (M)
+8	243	4339	Ichigo Mugetsu Armor (M)
+8	244	4340	Uchiha Madara Armor (M)
+8	245	4341	Roronoa Zoro Armor (M)
+8	246	4342	Max Armor (M)
+8	247	4343	Blue Storm Armor (M)
+
+9
+9	0	4608	Bronze Pants
+9	1	4609	Dragon Pants
+9	2	4610	Pad Pants
+9	3	4611	Legendary Pants
+9	4	4612	Bone Pants
+9	5	4613	Leather Pants
+9	6	4614	Scale Pants
+9	7	4615	Sphinx Pants
+9	8	4616	Brass Pants
+9	9	4617	Plate Pants
+9	10	4618	Vine Pants
+9	11	4619	Silk Pants
+9	12	4620	Wind Pants
+9	13	4621	Spirit Pants
+9	14	4622	Guardian Pants
+9	15	4623	Storm Crow Pants
+9	16	4624	Black Dragon Pants
+9	17	4625	Dark Phoenix Pants
+9	18	4626	Grand Soul Pants
+9	19	4627	Holy Spirit Pants
+9	20	4628	Thunder Hawk Pants
+9	21	4629	Great Dragon Pants
+9	22	4630	Dark Soul Pants
+9	23	4631	Hurricane Pants
+9	24	4632	Red Sprit Pants
+9	25	4633	Light Plate Pants
+9	26	4634	Adamantine Pants
+9	27	4635	Dark Steel Pants
+9	28	4636	Dark Master Pants
+9	29	4637	Dragon Knight Pants
+9	30	4638	Venom Mist Pants
+9	31	4639	Sylphid Ray Pants
+9	32	4640	Volcano Pants
+9	33	4641	Sunlight Pants
+9	34	4642	Ashcrow Pants
+9	35	4643	Eclipse Pants
+9	36	4644	Iris Pants
+9	37	4645	Valiant Pants
+9	38	4646	Glorious Pants
+9	39	4647	Violent Wind Pants
+9	40	4648	Red Wing Pants
+9	41	4649	Ancient Pants
+9	42	4650	Demonic Pants
+9	43	4651	Storm Blitz Pants
+9	44	4652	Eternal Wing Pants
+9	45	4653	Titan Pants
+9	46	4654	Brave Pants
+9	47	4655	Phantom Pants
+9	48	4656	Destroy Pants
+9	49	4657	Seraphim Pants
+9	50	4658	Divine Pants
+9	51	4659	Royal Pants
+9	52	4660	Hades Pants
+9	53	4661	Queen Pants
+9	59	4667	Sacred Pants
+9	60	4668	Storm Hard Pants
+9	61	4669	Piercing Pants
+9	62	4670	Lucky Scale Pants
+9	63	4671	Lucky Silk Pants
+9	64	4672	Lucky Sphinx Pants
+9	65	4673	Lucky Violent Wind Pants
+9	66	4674	Lucky Dark Soul Pants
+9	67	4675	Lucky Dragon Pants
+9	68	4676	Lucky Guardian Pants
+9	69	4677	Lucky Legendary Pants
+9	70	4678	Lucky Red Wing Pants
+9	71	4679	Lucky Atlans Pants
+9	72	4680	Lucky Storm Hard Pants
+9	73	4681	Phoenix Soul Pants
+9	100	4708	Light Hawk Pants
+9	101	4709	RabbitLunar Pants
+9	102	4710	Armageddon Pants
+9	103	4711	Ice Dragon Pants
+9	104	4712	Wellonw Black Pants
+9	105	4713	Rlk.Forest Pants
+9	106	4714	Edt.Demon FireV1 M Pants
+9	107	4715	Edt.Demon FireV1 F Pants
+9	108	4716	Edt.Bird White M M Pants
+9	109	4717	Edt.Bird White F F Pants
+9	110	4718	NightMare Pants
+9	111	4719	Nightmare_V2 Pants
+9	112	4720	Fenrir Gold Pants
+9	113	4721	Skeleton King Pants
+9	114	4722	Red Dragon Pants
+9	115	4723	Medusa Pants (F)
+9	116	4724	Golden Pants
+9	117	4725	Kundun Pants (M)
+9	118	4726	Wizard Pants
+9	119	4727	Hell Maine Pants
+9	120	4728	Guardian Pants
+9	200	4808	Purple Pants
+9	201	4809	Purple F Pants
+9	202	4810	Rei Do UP Pants
+9	203	4811	Rei Do UP F Pants
+9	204	4812	Royal Pants
+9	205	4813	Cel Pants
+9	206	4814	Saiyajin 4 Pants
+9	207	4815	Hiruzen Pants
+9	208	4816	Jiraya Pants
+9	209	4817	King Vegeta Pants
+9	210	4818	Vegeta Saiyajin 4 Pants
+9	211	4819	Dragon Pants
+9	212	4820	Alpha Pants
+9	213	4821	Crystal Pants
+9	214	4822	Blood Pants
+9	215	4823	Dark Blue Pants
+9	216	4824	Dragon Impact Pants
+9	217	4825	Imperador Pants
+9	218	4826	ArcheBlade Pants
+9	219	4827	Dark Demon Pants
+9	220	4828	Alien Girl Pants
+9	221	4829	Dark Warrior Pants
+9	222	4830	Magma Pants
+9	223	4831	Optimus F Pants
+9	224	4832	Killer Pants
+9	225	4833	Killer 2 Pants
+9	226	4834	Demon Lord Pants
+9	227	4835	ABS Pants
+9	228	4836	DARK YELLOW PANTS (M)
+9	229	4837	DARK YELLOW PANTS (F)
+9	230	4838	FABLE PANTS (M)
+9	231	4839	Rei Do Mu Pants (F)
+9	232	4840	Rei Do Mu Pants (M)
+9	233	4841	Heart Of Gold Pants (F)
+9	234	4842	Heart Of Gold Pants (M)
+9	235	4843	Rei Do CS Pants (M)
+9	236	4844	Natal 2023 Pants (F)
+9	237	4845	Natal 2023 Pants (M)
+9	238	4846	Sakura Pants (F)
+9	239	4847	Princess Pants (F)
+9	240	4848	Zabuza Pants (M)
+9	241	4849	Goku SJJ5 Pants (M)
+9	242	4850	Majin Boo Pants (M)
+9	243	4851	Ichigo Mugetsu Pants (M)
+9	244	4852	Uchiha Madara Pants (M)
+9	245	4853	Roronoa Zoro Pants (M)
+9	246	4854	Max Pants (M)
+9	247	4855	Blue Storm Pants (M)
+
+10
+10	0	5120	Bronze Gloves
+10	1	5121	Dragon Gloves
+10	2	5122	Pad Gloves
+10	3	5123	Legendary Gloves
+10	4	5124	Bone Gloves
+10	5	5125	Leather Gloves
+10	6	5126	Scale Gloves
+10	7	5127	Sphinx Gloves
+10	8	5128	Brass Gloves
+10	9	5129	Plate Gloves
+10	10	5130	Vine Gloves
+10	11	5131	Silk Gloves
+10	12	5132	Wind Gloves
+10	13	5133	Spirit Gloves
+10	14	5134	Guardian Gloves
+10	15	5135	Storm Crow Gloves
+10	16	5136	Black Dragon Gloves
+10	17	5137	Dark Phoenix Gloves
+10	18	5138	Grand Soul Gloves
+10	19	5139	Holy Spirit Gloves
+10	20	5140	Thunder Hawk Gloves
+10	21	5141	Great Dragon Gloves
+10	22	5142	Dark Soul Gloves
+10	23	5143	Hurricane Gloves
+10	24	5144	Red Sprit Gloves
+10	25	5145	Light Plate Gloves
+10	26	5146	Adamantine Gloves
+10	27	5147	Dark Steel Gloves
+10	28	5148	Dark Master Gloves
+10	29	5149	Dragon Knight Gloves
+10	30	5150	Venom Mist Gloves
+10	31	5151	Sylphid Ray Gloves
+10	32	5152	Volcano Gloves
+10	33	5153	Sunlight Gloves
+10	34	5154	Ashcrow Gloves
+10	35	5155	Eclipse Gloves
+10	36	5156	Iris Gloves
+10	37	5157	Valiant Gloves
+10	38	5158	Glorious Gloves
+10	39	5159	Violent Wind Gloves
+10	40	5160	Red Wing Gloves
+10	41	5161	Ancient Gloves
+10	42	5162	Demonic Gloves
+10	43	5163	Storm Blitz Gloves
+10	44	5164	Eternal Wing Gloves
+10	45	5165	Titan Gloves
+10	46	5166	Brave Gloves
+10	47	5167	Phantom Gloves
+10	48	5168	Destroy Gloves
+10	49	5169	Seraphim Gloves
+10	50	5170	Divine Gloves
+10	51	5171	Royal Gloves
+10	52	5172	Hades Gloves
+10	53	5173	Queen Gloves
+10	62	5182	Lucky Scale Gloves
+10	63	5183	Lucky Silk Gloves
+10	64	5184	Lucky Sphinx Gloves
+10	65	5185	Lucky Violent Wind Gloves
+10	66	5186	Lucky Dark Soul Gloves
+10	67	5187	Lucky Dragon Gloves
+10	68	5188	Lucky Guardian Gloves
+10	69	5189	Lucky Legendary Gloves
+10	70	5190	Lucky Red Wing Gloves
+10	71	5191	Lucky Atlans Gloves
+10	100	5220	Light Hawk Gloves
+10	101	5221	RabbitLunar Gloves
+10	102	5222	Armageddon Gloves
+10	103	5223	Ice Dragon Gloves
+10	104	5224	Wellonw Black Gloves
+10	105	5225	Rlk.Forest Gloves
+10	106	5226	Edt.Demon FireV1 M Gloves
+10	107	5227	Edt.Demon FireV1 F Gloves
+10	108	5228	Edt.Bird White M M Gloves
+10	109	5229	Edt.Bird White F F Gloves
+10	110	5230	NightMare Gloves
+10	111	5231	Nightmare_V2 Gloves
+10	112	5232	Fenrir Gold Gloves
+10	113	5233	Skeleton King Gloves
+10	114	5234	Red Dragon Gloves
+10	115	5235	Medusa Gloves (F)
+10	116	5236	Golden Gloves
+10	117	5237	Kundun Gloves (M)
+10	118	5238	Wizard Gloves
+10	119	5239	Hell Maine Gloves
+10	120	5240	Guardian Gloves
+10	200	5320	Purple Gloves
+10	201	5321	Purple F Gloves
+10	202	5322	Rei Do UP Gloves
+10	203	5323	Rei Do UP F Gloves
+10	204	5324	Royal Gloves
+10	205	5325	Cel Gloves
+10	206	5326	Saiyajin 4 Gloves
+10	207	5327	Hiruzen Gloves
+10	208	5328	Jiraya Gloves
+10	209	5329	King Vegeta Gloves
+10	210	5330	Vegeta Saiyajin 4 Gloves
+10	211	5331	Dragon Gloves
+10	212	5332	Alpha Gloves
+10	213	5333	Crystal Gloves
+10	214	5334	Blood Gloves
+10	215	5335	Dark Blue Gloves
+10	216	5336	Dragon Impact Gloves
+10	217	5337	Imperador Gloves
+10	218	5338	ArcheBlade Gloves
+10	219	5339	Dark Demon Gloves
+10	220	5340	Alien Girl Gloves
+10	221	5341	Dark Warrior Gloves
+10	222	5342	Magma Gloves
+10	223	5343	Optimus F Gloves
+10	224	5344	Killer Gloves
+10	225	5345	Killer 2 Gloves
+10	226	5346	Demon Lord Gloves
+10	227	5347	ABS Gloves
+10	228	5348	DARK YELLOW GLOVES (M)
+10	229	5349	DARK YELLOW GLOVES (F)
+10	230	5350	FABLE GLOVES (M)
+10	231	5351	Rei Do Mu Gloves (F)
+10	232	5352	Rei Do Mu Gloves (M)
+10	233	5353	Heart Of Gold Gloves (F)
+10	234	5354	Heart Of Gold Gloves (M)
+10	235	5355	Rei Do CS Gloves (M)
+10	236	5356	Natal 2023 Gloves (F)
+10	237	5357	Natal 2023 Gloves (M)
+10	238	5358	Sakura Gloves (F)
+10	239	5359	Princess Gloves (F)
+10	240	5360	Zabuza Gloves (M)
+10	241	5361	Goku SJJ5 Gloves (M)
+10	242	5362	Majin Boo Gloves (M)
+10	243	5363	Ichigo Mugetsu Gloves (M)
+10	244	5364	Uchiha Madara Gloves (M)
+10	245	5365	Roronoa Zoro Gloves (M)
+10	246	5366	Max Gloves (M)
+10	247	5367	Blue Storm Gloves (M)
+
+11
+11	0	5632	Bronze Boots
+11	1	5633	Dragon Boots
+11	2	5634	Pad Boots
+11	3	5635	Legendary Boots
+11	4	5636	Bone Boots
+11	5	5637	Leather Boots
+11	6	5638	Scale Boots
+11	7	5639	Sphinx Boots
+11	8	5640	Brass Boots
+11	9	5641	Plate Boots
+11	10	5642	Vine Boots
+11	11	5643	Silk Boots
+11	12	5644	Wind Boots
+11	13	5645	Spirit Boots
+11	14	5646	Guardian Boots
+11	15	5647	Storm Crow Boots
+11	16	5648	Black Dragon Boots
+11	17	5649	Dark Phoenix Boots
+11	18	5650	Grand Soul Boots
+11	19	5651	Holy Spirit Boots
+11	20	5652	Thunder Hawk Boots
+11	21	5653	Great Dragon Boots
+11	22	5654	Dark Soul Boots
+11	23	5655	Hurricane Boots
+11	24	5656	Red Sprit Boots
+11	25	5657	Light Plate Boots
+11	26	5658	Adamantine Boots
+11	27	5659	Dark Steel Boots
+11	28	5660	Dark Master Boots
+11	29	5661	Dragon Knight Boots
+11	30	5662	Venom Mist Boots
+11	31	5663	Sylphid Ray Boots
+11	32	5664	Volcano Boots
+11	33	5665	Sunlight Boots
+11	34	5666	Ashcrow Boots
+11	35	5667	Eclipse Boots
+11	36	5668	Iris Boots
+11	37	5669	Valiant Boots
+11	38	5670	Glorious Boots
+11	39	5671	Violent Wind Boots
+11	40	5672	Red Wing Boots
+11	41	5673	Ancient Boots
+11	42	5674	Demonic Boots
+11	43	5675	Storm Blitz Boots
+11	44	5676	Eternal Wing Boots
+11	45	5677	Titan Boots
+11	46	5678	Brave Boots
+11	47	5679	Phantom Boots
+11	48	5680	Destroy Boots
+11	49	5681	Seraphim Boots
+11	50	5682	Divine Boots
+11	51	5683	Royal Boots
+11	52	5684	Hades Boots
+11	53	5685	Queen Boots
+11	54	5686	Ultimate Boots
+11	55	5687	02 Boots
+11	56	5688	Afrodite Boots
+11	57	5689	Goku SSJ Blue C Boots
+11	58	5690	Natal Evento Boots
+11	59	5691	Sacred Boots
+11	60	5692	Storm Hard Boots
+11	61	5693	Piercing Boots
+11	62	5694	Lucky Scale Boots
+11	63	5695	Lucky Silk Boots
+11	64	5696	Lucky Sphinx Boots
+11	65	5697	Lucky Violent Wind Boots
+11	66	5698	Lucky Dark Soul Boots
+11	67	5699	Lucky Dragon Boots
+11	68	5700	Lucky Guardian Boots
+11	69	5701	Lucky Legendary Boots
+11	70	5702	Lucky Red Wing Boots
+11	71	5703	Lucky Atlans Boots
+11	72	5704	Lucky Storm Hard Boots
+11	73	5705	Phoenix Soul Boots
+11	74	5706	Devil Dragon Boots
+11	75	5707	Diabolic Boots
+11	76	5708	Dragon God Boots
+11	77	5709	Vermilhion L Boots
+11	78	5710	Galeon Boots
+11	79	5711	Gaara Boots
+11	80	5712	Madara Boots
+11	81	5713	Goku God C Boots
+11	82	5714	QUimera R Boots
+11	84	5716	TheEnd Boots
+11	85	5717	Devil Boots
+11	86	5718	Tauros Boots
+11	87	5719	DemonLord Boots
+11	88	5720	Pain Boots
+11	89	5721	Ice Lord Boots
+11	90	5722	Angelic Boots
+11	91	5723	Galia Boots
+11	92	5724	Gyo Boots
+11	93	5725	Golden R Boots
+11	94	5726	Efesto Boots
+11	95	5727	Death Boots
+11	96	5728	Kratos Boots
+11	97	5729	Hashirama Boots
+11	98	5730	Jiraya Boots
+11	99	5731	Tobirama Boots
+11	100	5732	Light Hawk Boots
+11	101	5733	RabbitLunar Boots
+11	102	5734	Armageddon Boots
+11	103	5735	Ice Dragon Boots
+11	104	5736	Wellonw Black Boots
+11	105	5737	Rlk.Forest Boots
+11	106	5738	Edt.Demon FireV1 M Boots
+11	107	5739	Edt.Demon FireV1 F Boots
+11	108	5740	Edt.Bird White M M Boots
+11	109	5741	Edt.Bird White F F Boots
+11	110	5742	NightMare Boots
+11	111	5743	Nightmare_V2 Boots
+11	112	5744	Fenrir Gold Boots
+11	113	5745	Skeleton King Boots
+11	114	5746	Red Dragon Boots
+11	115	5747	Medusa Boots (F)
+11	116	5748	Golden Boots
+11	117	5749	Kundun Boots (M)
+11	118	5750	Wizard Boots
+11	119	5751	Hell Maine Boots
+11	120	5752	Guardian Boots
+11	200	5832	Purple Boots
+11	201	5833	Purple F Boots
+11	202	5834	Rei Do UP Boots
+11	203	5835	Rei Do UP F Boots
+11	204	5836	Royal Boots
+11	205	5837	Cel Boots
+11	206	5838	Saiyajin 4 Boots
+11	207	5839	Hiruzen Boots
+11	208	5840	Jiraya Boots
+11	209	5841	King Vegeta Boots
+11	210	5842	Vegeta Saiyajin 4 Boots
+11	211	5843	Dragon Boots
+11	212	5844	Alpha Boots
+11	213	5845	Crystal Boots
+11	214	5846	Blood Boots
+11	215	5847	Dark Blue Boots
+11	216	5848	Dragon Impact Boots
+11	217	5849	Imperador Boots
+11	218	5850	ArcheBlade Boots
+11	219	5851	Dark Demon Boots
+11	220	5852	Alien Girl Boots
+11	221	5853	Dark Warrior Boots
+11	222	5854	Magma Boots
+11	223	5855	Optimus F Boots
+11	224	5856	Killer Boots
+11	225	5857	Killer 2 Boots
+11	226	5858	Demon Lord Boots
+11	227	5859	ABS Boots
+11	228	5860	DARK YELLOW BOOTS (M)
+11	229	5861	DARK YELLOW BOOTS (F)
+11	230	5862	FABLE BOOTS (M)
+11	231	5863	Rei Do Mu Boots (F)
+11	232	5864	Rei Do Mu Boots (M)
+11	233	5865	Heart Of Gold Boots (F)
+11	234	5866	Heart Of Gold Boots (M)
+11	235	5867	Rei Do CS Boots (M)
+11	236	5868	Natal 2023 Boots (F)
+11	237	5869	Natal 2023 Boots (M)
+11	238	5870	Sakura Boots (F)
+11	239	5871	Princess Boots (F)
+11	240	5872	Zabuba Boots (M)
+11	241	5873	Goku SJJ5 Boots (M)
+11	242	5874	Majin Boo Boots (M)
+11	243	5875	Ichigo Mugetsu Boots (M)
+11	244	5876	Uchiha Madara Boots (M)
+11	245	5877	Roronoa Zoro Boots (M)
+11	246	5878	Max Boots (M)
+11	247	5879	Blue Storm Boots (M)
+
+12
+12	0	6144	Wing of Elf
+12	1	6145	Wing of Heaven
+12	2	6146	Wing of Satan
+12	3	6147	Wing of Spirits
+12	4	6148	Wing of Soul
+12	5	6149	Wing of Dragon
+12	6	6150	Wing of Darkness
+12	7	6151	Orb of Twisting Slash
+12	8	6152	Healing Orb
+12	9	6153	Orb of Greater Defense
+12	10	6154	Orb of Greater Damage
+12	11	6155	Orb of Summoning
+12	12	6156	Orb of Rageful Blow
+12	13	6157	Orb of Impale
+12	14	6158	Orb of Greater Fortitude
+12	15	6159	Jewel of Chaos
+12	16	6160	Orb of Fire Slash
+12	17	6161	Orb of Penetration
+12	18	6162	Orb of Ice Arrow
+12	19	6163	Orb of Death Stab
+12	21	6165	Scroll of FireBurst
+12	22	6166	Scroll of Summon
+12	23	6167	Scroll of Critical Damage
+12	24	6168	Scroll of Electric Spark
+12	26	6170	Gem of Secret
+12	30	6174	Bundled Jewel of Bless
+12	31	6175	Bundled Jewel of Soul
+12	32	6176	Box of Red Ribbon
+12	33	6177	Box of Green Ribbon
+12	34	6178	Box of Blue Ribbon
+12	35	6179	Scroll of Fire Scream
+12	36	6180	Wing of Storm
+12	37	6181	Wing of Eternal
+12	38	6182	Wing of Illusion
+12	39	6183	Wing of Ruin
+12	40	6184	Cape of Emperor
+12	41	6185	Wing of Curse
+12	42	6186	Wind of Despair
+12	43	6187	Wing of Dimension
+12	44	6188	Crystal of Destruction
+12	45	6189	Crystal of Multi-Shot
+12	46	6190	Crystal of Recovery
+12	47	6191	Crystal of Flame Strike
+12	48	6192	Scroll of Chaotic Diseier
+12	49	6193	Cloak of Warrior
+12	50	6194	Cape of Overrule
+12	60	6204	Seed (Fire)
+12	61	6205	Seed (Water)
+12	62	6206	Seed (Ice)
+12	63	6207	Seed (Wind)
+12	64	6208	Seed (Lightning)
+12	65	6209	Seed (Earth)
+12	70	6214	Sphere (Mono)
+12	71	6215	Sphere (Di)
+12	72	6216	Sphere (Tri)
+12	73	6217	Sphere (Four)
+12	74	6218	Sphere (Five)
+12	100	6244	Seed Sphere (Fire)
+12	101	6245	Seed Sphere (Water)
+12	102	6246	Seed Sphere (Ice)
+12	103	6247	Seed Sphere (Wind)
+12	104	6248	Seed Sphere (Lightning)
+12	105	6249	Seed Sphere (Earth)
+12	106	6250	Seed Sphere (Fire)
+12	107	6251	Seed Sphere (Water)
+12	108	6252	Seed Sphere (Ice)
+12	109	6253	Seed Sphere (Wind)
+12	110	6254	Seed Sphere (Lightning)
+12	111	6255	Seed Sphere (Earth)
+12	112	6256	Seed Sphere (Fire)
+12	113	6257	Seed Sphere (Water)
+12	114	6258	Seed Sphere (Ice)
+12	115	6259	Seed Sphere (Wind)
+12	116	6260	Seed Sphere (Lightning)
+12	117	6261	Seed Sphere (Earth)
+12	118	6262	Seed Sphere (Fire)
+12	119	6263	Seed Sphere (Water)
+12	120	6264	Seed Sphere (Ice)
+12	121	6265	Seed Sphere (Wind)
+12	122	6266	Seed Sphere (Lightning)
+12	123	6267	Seed Sphere (Earth)
+12	124	6268	Seed Sphere (Fire)
+12	125	6269	Seed Sphere (Water)
+12	126	6270	Seed Sphere (Ice)
+12	127	6271	Seed Sphere (Wind)
+12	128	6272	Seed Sphere (Lightning)
+12	129	6273	Seed Sphere (Earth)
+12	130	6274	Small Cape of Lord
+12	131	6275	Small Wing of Curse
+12	132	6276	Small Wing of Elf
+12	133	6277	Small Wing of Heaven
+12	134	6278	Small Wing of Satan
+12	135	6279	Small Cloak of Warrior
+12	136	6280	Bundled Jewel of Life
+12	137	6281	Bundled Jewel of Creation
+12	138	6282	Bundled Jewel of Guardian
+12	139	6283	Bundled Gemstone
+12	140	6284	Bundled Jewel of Harmony
+12	141	6285	Bundled Jewel of Chaos
+12	142	6286	Bundled Lower Refining Stone
+12	143	6287	Bundled Higer Refining Stone
+12	200	6344	Wing Edt.Brutaliti
+12	201	6345	Wing Supreme
+12	202	6346	Wing Endevor
+12	203	6347	Wing 3 Anos
+12	204	6348	Wing Edt.Brutaliti
+12	205	6349	Wing Celestial
+12	206	6350	Wing WarlocK R
+12	207	6351	Wing P.D
+12	208	6352	Wing RLK BM
+12	209	6353	Gold-X Wing
+12	210	6354	Wing RLK IMP
+12	211	6355	Wing Magma
+12	212	6356	Wing Golden
+12	213	6357	Wing Demolidor
+12	214	6358	Wing YingxYang
+12	215	6359	Wing Extreme
+12	216	6360	Wing Edt.Rlk.V5
+12	217	6361	Wing Edt.King Paladin
+12	218	6362	Wing Edt.Rlk.V6
+12	219	6363	Wing Evt.Natal
+12	220	6364	Wing RedStorm
+12	221	6365	Wing RedLord
+12	222	6366	Wing IceBorne
+12	223	6367	Wing Edt.Demon FireV1
+12	224	6368	Wing Edt.Rlk Top Donate
+12	225	6369	Capa Edt.Demon FireV1
+12	226	6370	Capa Edt.Rlk Top Donate
+12	227	6371	Wing King Extreme [L]
+
+13
+13	0	6656	Guardian Angel
+13	1	6657	Imp
+13	2	6658	Horn of Uniria
+13	3	6659	Horn of Dinorant
+13	4	6660	Dark Horse
+13	5	6661	Dark Raven
+13	7	6663	Contract (Summon)
+13	8	6664	Ring of Ice
+13	9	6665	Ring of Poison
+13	10	6666	Transformation Ring
+13	11	6667	Order (Guardian/Life Stone)
+13	12	6668	Pendant of Lighting
+13	13	6669	Pendant of Fire
+13	14	6670	Loch Feather
+13	15	6671	Fruits
+13	16	6672	Scroll of Archangel
+13	17	6673	Blood Bone
+13	18	6674	Invisibility Cloak
+13	19	6675	Absolute Weapon of Archangel
+13	20	6676	Wizards Ring
+13	21	6677	Ring of Fire
+13	22	6678	Ring of Earth
+13	23	6679	Ring of Wind
+13	24	6680	Ring of Magic
+13	25	6681	Pendant of Ice
+13	26	6682	Pendant of Wind
+13	27	6683	Pendant of Water
+13	28	6684	Pendant of Ability
+13	29	6685	Armor of Guardsman
+13	30	6686	Cape of Lord
+13	31	6687	Spirit
+13	32	6688	Splinter of Armor
+13	33	6689	Bless of Guardian
+13	34	6690	Claw of Beast
+13	35	6691	Fragment of Horn
+13	36	6692	Broken Horn
+13	37	6693	Horn of Fenrir
+13	38	6694	Moonstone Pendant
+13	39	6695	Eilte Skeleton Ring
+13	40	6696	Jack Olantern Ring
+13	41	6697	Transfer Christmas Ring
+13	42	6698	Ring of GM
+13	43	6699	Seal of Ascension
+13	44	6700	Seal of Wealth
+13	45	6701	Seal of Sustenance
+13	46	6702	Devil Square Ticket
+13	47	6703	Blood Castle Ticket
+13	48	6704	Kalima Ticket
+13	49	6705	Old Scroll
+13	50	6706	Illusion Sorcerer Covenant
+13	51	6707	Scroll of Blood
+13	52	6708	Condor Flame
+13	53	6709	Condor Feather
+13	54	6710	Reset Fruit Strength
+13	55	6711	Reset Fruit Agility
+13	56	6712	Reset Fruit Vitality
+13	57	6713	Reset Fruit Energy
+13	58	6714	Reset Fruit Command
+13	59	6715	Seal of Mobility
+13	60	6716	Indulgence
+13	61	6717	Illusion Temple Ticket
+13	62	6718	Seal of Healing
+13	63	6719	Seal of Divinity
+13	64	6720	Demon
+13	65	6721	Spirit of Guardian
+13	66	6722	Invitation to Santa Village
+13	67	6723	Pet Rudolf
+13	68	6724	Snowman Transformation Ring
+13	69	6725	Talisman of Resurrection
+13	70	6726	Talisman of Mobility
+13	71	6727	Sword/Mace/Spear
+13	72	6728	Staff
+13	73	6729	Bow/Crossbow
+13	74	6730	Scepter
+13	75	6731	Stick
+13	76	6732	Panda Ring
+13	80	6736	Pet Panda
+13	81	6737	Talisman of Guardian
+13	82	6738	Talisman Item Protection
+13	83	6739	Talisman Wing of Satan
+13	84	6740	Talisman Wing of Heaven
+13	85	6741	Talisman Wing of Elf
+13	86	6742	Talisman Wing of Curse
+13	87	6743	Talisman Cape of Emperor
+13	88	6744	Talisman Wing of Dragon
+13	89	6745	Talisman Wing of Soul
+13	90	6746	Talisman Wing of Spirits
+13	91	6747	Talisman Wing of Despair
+13	92	6748	Talisman Wing of Darkness
+13	93	6749	Master Seal of Ascension
+13	94	6750	Master Seal of Wealth
+13	95	6751	Gladiator Honor
+13	96	6752	Seal of Strength
+13	103	6759	Party EXP Scroll
+13	104	6760	Max AG Boost Aura
+13	105	6761	Max SD Boost Aura
+13	106	6762	Pet Unicorn
+13	107	6763	Lethal Wizard Ring
+13	109	6765	Sapphire Ring
+13	110	6766	Ruby Ring
+13	111	6767	Topaz Ring
+13	112	6768	Amethyst Ring
+13	113	6769	Ruby Necklace
+13	114	6770	Emerald Necklace
+13	115	6771	Sapphire Necklace
+13	116	6772	Seal of Wealth
+13	117	6773	Minimum Vitality Potion
+13	118	6774	Low Vitality Potion
+13	119	6775	Medium Vitality Potion
+13	120	6776	High Vitality Potion
+13	121	6777	Open Access Ticket to Chaos Ca
+13	122	6778	Skeleton Transformation Ring
+13	123	6779	Pet Skeleton
+13	124	6780	Paid Channel Access Ticket
+13	125	6781	Access Ticket to Doppelganger
+13	126	6782	Access Ticket to Varka
+13	127	6783	Access Ticket to Varka Ma
+13	128	6784	Hawk Figurine
+13	129	6785	Goat Figurine
+13	130	6786	Oak Charm
+13	131	6787	Maple Charm
+13	132	6788	Golden Oak Charm
+13	133	6789	Golden Maple Charm
+13	134	6790	Worn Horseshoe
+13	135	6791	1st Lucky Armor Ticket
+13	136	6792	1st Lucky Pants Ticket
+13	137	6793	1st Lucky Helm Ticket
+13	138	6794	1st Lucky Gloves Ticket
+13	139	6795	1st Lucky Boots Ticket
+13	140	6796	2sd Lucky Armor Ticket
+13	141	6797	2sd Lucky Pants Ticket
+13	142	6798	2sd Lucky Helm Ticket
+13	143	6799	2sd Lucky Gloves Ticket
+13	144	6800	2sd Lucky Boots Ticket
+13	200	6856	Pet Rei Do PvP
+
+14
+14	0	7168	Apple
+14	1	7169	Small Healing Potion
+14	2	7170	Healing Potion
+14	3	7171	Large Healing Potion
+14	4	7172	Small Mana Potion
+14	5	7173	Mana Potion
+14	6	7174	Large Mana Potion
+14	7	7175	Siege Potion
+14	8	7176	Antidote
+14	9	7177	Ale
+14	10	7178	Town Portal Scroll
+14	11	7179	Box of Luck
+14	12	7180	Heart
+14	13	7181	Jewel of Bless
+14	14	7182	Jewel of Soul
+14	15	7183	Zen
+14	16	7184	Jewel of Life
+14	17	7185	Devil Eye
+14	18	7186	Devil Key
+14	19	7187	Devil Invitation
+14	20	7188	Remedy of Love
+14	21	7189	Rena
+14	22	7190	Jewel of Creation
+14	23	7191	Scroll of the Emperor
+14	24	7192	Broken Sword
+14	25	7193	Tear of Elf
+14	26	7194	Soul Shard of Wizard
+14	28	7196	Lost Map
+14	29	7197	Symbol of Kundun
+14	31	7199	Jewel of Guardian
+14	32	7200	Pink Chocolate Box
+14	33	7201	Red Chocolate Box
+14	34	7202	Blue Chocolate Box
+14	35	7203	Small SD Potion
+14	36	7204	SD Potion
+14	37	7205	Large SD Potion
+14	38	7206	Small Complex Potion
+14	39	7207	Complex Potion
+14	40	7208	Large Complex Potion
+14	41	7209	Gemstone
+14	42	7210	Jewel of Harmony
+14	43	7211	Lower Refining Stone
+14	44	7212	Higher Refining Stone
+14	45	7213	Pumpkin of Luck
+14	46	7214	Jack Lantern Blessings
+14	47	7215	Jack Lantern Wrath
+14	48	7216	Jack Lantern Cry
+14	49	7217	Jack Lantern Food
+14	50	7218	Jack Lantern Drink
+14	51	7219	Chistmas Star
+14	52	7220	GM Gift
+14	53	7221	Talisman of Luck
+14	54	7222	Chaos Card
+14	55	7223	Green Chaos Box
+14	56	7224	Red Chaos Box
+14	57	7225	Purple Chaos Box
+14	58	7226	Rare Item Ticket1
+14	59	7227	Rare Item Ticket2
+14	60	7228	Rare Item Ticket3
+14	61	7229	Rare Item Ticket4
+14	62	7230	Rare Item Ticket5
+14	63	7231	Firecracker
+14	64	7232	Cursed Castle Water
+14	65	7233	Death-beam Knight Flame
+14	66	7234	Hell-Miner Horn
+14	67	7235	Dark Phoenix Feather
+14	68	7236	Abyssal Eye
+14	70	7238	Elite Healing Potion
+14	71	7239	Elite Mana Potion
+14	72	7240	Scroll of Quickness
+14	73	7241	Scroll of Defense
+14	74	7242	Scroll of Wrath
+14	75	7243	Scroll of Wizardry
+14	76	7244	Scroll of Health
+14	77	7245	Scroll of Mana
+14	78	7246	Elixir of Strength
+14	79	7247	Elixir of Agility
+14	80	7248	Elixir of Health
+14	81	7249	Elixir of Energy
+14	82	7250	Elixir of Control
+14	83	7251	Rare Item Ticket
+14	84	7252	Cherry Blossom Play-Box
+14	85	7253	Cherry Blossom Wine
+14	86	7254	Cherry Blossom Rice Cake
+14	87	7255	Cherry Blossom Flower Petal
+14	88	7256	White Cherry Blossom Branch
+14	89	7257	Red Cherry Blossom Branch
+14	90	7258	Golden Cherry Blossom Branch
+14	91	7259	Summoner Character Card
+14	92	7260	Chaos Card Gold
+14	93	7261	Chaos Card Rare
+14	94	7262	Medium Elite Healing Potion
+14	95	7263	Chaos Card Mini
+14	96	7264	Talisman of Chaos Assembly
+14	97	7265	Scroll of Battle
+14	98	7266	Scroll of Strength
+14	99	7267	Christmas Firecracker
+14	100	7268	Lucky Coin
+14	101	7269	Suspicious Scrap of Paper
+14	102	7270	Gaion Order
+14	103	7271	First Secromicon Fragment
+14	104	7272	Second Secromicon Fragment
+14	105	7273	Third Secromicon Fragment
+14	106	7274	Fourth Secromicon Fragment
+14	107	7275	Fifth Secromicon Fragment
+14	108	7276	Sixth Secromicon Fragment
+14	109	7277	Complete Secromicon
+14	110	7278	Sign of Dimensions
+14	111	7279	Mirror of Dimensions
+14	112	7280	Silver Key
+14	113	7281	Gold Key
+14	114	7282	Master Skill Reset
+14	115	7283	Stat Adjustment
+14	116	7284	Character Relocation Service
+14	117	7285	Character Rename Service
+14	118	7286	Server Relocation Service
+14	119	7287	Premium Package
+14	120	7288	Goblin Gold Coin
+14	121	7289	Sealed Golden Box
+14	122	7290	Sealed Silver Box
+14	123	7291	Golden Box
+14	124	7292	Silver Box
+14	125	7293	Package Box
+14	126	7294	30-Day Pass
+14	127	7295	90-Day Pass
+14	128	7296	30-Day Pass Points
+14	129	7297	90-Day Pass Points
+14	130	7298	3-Hour Pass
+14	131	7299	5-Hour Pass
+14	132	7300	10-Hour Pass
+14	133	7301	Elite SD Potion
+14	134	7302	Box Anime
+14	135	7303	Box Custom
+14	136	7304	Package Box C
+14	137	7305	Package Box D
+14	138	7306	Package Box E
+14	139	7307	Package Box F
+14	140	7308	Scroll of Healing
+14	141	7309	Shining Jewelry Case
+14	142	7310	Elegant Jewelry Case
+14	143	7311	Steel Jewelry Case
+14	144	7312	Old Jewelry Case
+14	145	7313	Rare Item Ticket 7
+14	146	7314	Rare Item Ticket 8
+14	147	7315	Rare Item Ticket 9
+14	148	7316	Rare Item Ticket 10
+14	149	7317	Rare Item Ticket 11
+14	150	7318	Rare Item Ticket 12
+14	151	7319	Lv.1 Letter of Request
+14	152	7320	Lv.1 Completion Certificate
+14	153	7321	Stardust
+14	154	7322	Kalt Stone
+14	155	7323	Tantalos Armor
+14	156	7324	Burnt Murderer Club
+14	157	7325	Green Box
+14	158	7326	Red Box
+14	159	7327	Purple Box
+14	160	7328	Jewel of Extension
+14	161	7329	Jewel of Elevation
+14	162	7330	Magic Backpack
+14	163	7331	Vault Expansion Certificate
+14	169	7337	Rage Fighter Character Card
+14	244	7412	Jewel of Level
+14	245	7413	Jewel of Skill
+14	246	7414	Jewel of Luck
+14	247	7415	Jewel of Adicional
+14	248	7416	Jewel of Excellent
+14	249	7417	Jewel of Socket
+14	250	7418	Jewel of Ancient 1
+14	251	7419	Jewel of Ancient 2
+14	252	7420	Jewel of Full
+14	253	7421	Stone Evolution
+14	300	7468	DailyReward Set
+14	301	7469	DailyReward Armas
+14	302	7470	DailyReward Armas2
+14	303	7471	DailyReward Moeda
+
+15
+15	0	7680	Scroll of Poison
+15	1	7681	Scroll of Meteorite
+15	2	7682	Scroll of Lighting
+15	3	7683	Scroll of Fire Ball
+15	4	7684	Scroll of Flame
+15	5	7685	Scroll of Teleport
+15	6	7686	Scroll of Ice
+15	7	7687	Scroll of Twister
+15	8	7688	Scroll of Evil Spirit
+15	9	7689	Scroll of Hellfire
+15	10	7690	Scroll of Power Wave
+15	11	7691	Scroll of Aqua Beam
+15	12	7692	Scroll of Cometfall
+15	13	7693	Scroll of Inferno
+15	14	7694	Scroll of Teleport Ally
+15	15	7695	Scroll of Soul Barrier
+15	16	7696	Scroll of Decay
+15	17	7697	Scroll of Ice Storm
+15	18	7698	Scroll of Nova
+15	19	7699	Chain Lightning Parchment
+15	20	7700	Drain Life Parchment
+15	21	7701	Lightning Shock Parchment
+15	22	7702	Damage Reflection Parchment
+15	23	7703	Berserker Parchment
+15	24	7704	Sleep Parchment
+15	26	7706	Weakness Parchment
+15	27	7707	Innovation Parchment
+15	28	7708	Scroll of Wizardry Enhance
+15	29	7709	Scroll of Gigantic Storm
+15	30	7710	Chain Drive Parchment
+15	31	7711	Dark Side Parchment
+15	32	7712	Dragon Roar Parchment
+15	33	7713	Dragon Slasher Parchment
+15	34	7714	Ignore Defense Parchment
+15	35	7715	Increase Health Parchment
+15	36	7716	Increase Block Parchment

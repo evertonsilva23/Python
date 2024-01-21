@@ -8,7 +8,7 @@ for line in fhand:
         line = line.rstrip()
         if len(line) == 0: continue
         cat = int(line)
-        out.write(str(cat) + '\n')
+        out.write('\n' + str(cat) + '\n')
         
     elif len(line) > 3:
         if len(line) == 0: continue
@@ -16,14 +16,14 @@ for line in fhand:
         x = line.find('"')
         y = line.find('"', 80)
         words = line.split()
-        print(words[0])
         id = words[0]
         if id.startswith('e') or len(words) == 0: continue
         intid = int(id)
         index = (cat * 512) + intid
         words = line.split('"')
         name = words[1]
-        sindex = str(index) + '\t' + name + '\n'
+        sindex =(str(cat)) + '\t' + (str(id)) + '\t' + str(index) + '\t' + name + '\n'
+        
         
         out.write(sindex)
 out.close()
